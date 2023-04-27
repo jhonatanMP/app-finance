@@ -1,0 +1,15 @@
+{
+    "name": "app-finance",
+    "version": "1.0.0",
+    "private": true,
+    "description": "Repositório do app de Finanças Colaborativa",
+    "license": "MIT",
+    "scripts": {
+        "husky:prepare": "husky install"
+    },
+    "devDependencies": {
+        "@commitlint/cli": "^17.5.1",
+        "@commitlint/config-conventional": "^17.4.4",
+        "husky": "^8.0.3"
+    }
+}
