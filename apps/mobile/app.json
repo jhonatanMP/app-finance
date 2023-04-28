@@ -1,7 +1,12 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "mobile",
     "slug": "mobile",
+=======
+    "name": "app-finance",
+    "slug": "app-finance",
+>>>>>>> origin/main
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

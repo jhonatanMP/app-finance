@@ -4,7 +4,11 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
+<<<<<<< HEAD
       <Text>O Seu app de finanças compartilhado!</Text>
+=======
+      <Text>App Finance Colaborativo</Text>
+>>>>>>> origin/main
       <StatusBar style="auto" />
     </View>
   );
