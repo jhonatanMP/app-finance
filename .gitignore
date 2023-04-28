@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 node_modules
 
 # macOS
 .DS_Store
-=======
-node_modules
->>>>>>> origin/main
